@@ -6,3 +6,5 @@ b=int(input("Enter value for b : "))
 
 arth.add(a,b)
 arth.sub(a,b)
+arth.mul(a,b)
+arth.div(a,b)
