@@ -1,1 +1,0 @@
-    wheatherdata=response.text
